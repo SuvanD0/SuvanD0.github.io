@@ -1,7 +1,7 @@
 {
   "name": "suvan-website",
   "version": "0.1.0",
-  "homepage": "https://Suvand0.github.io/SuvanD0.github.io",
+  "homepage": "https://SuvanD0.github.io/SuvanD0.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
