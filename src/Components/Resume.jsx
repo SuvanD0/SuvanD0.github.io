@@ -10,7 +10,7 @@ const Resume = () => {
     
     return (
         <div className="resume-section" style ={style}>
-            <iframe title = "resume" src="/Resources/Suvan_Dommeti.pdf" width="100%" height="1000px"></iframe>
+            <iframe title = "resume" src="/Resources/Website_Resume.pdf" width="100%" height="1000px"></iframe>
         </div>
         
     );
